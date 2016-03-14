@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:namespace="http://www.highcharts.com/svg/namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="-10 -10 111 118"
+   id="lilongwe"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 49">
+  <defs
+     id="defs3796" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="152"
+     inkscape:cy="97.669067"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="472"
+     inkscape:window-height="383"
+     inkscape:window-x="65"
+     inkscape:window-y="669"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3799">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-223,-531.9375)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#6e6e6e;stroke-width:0.40000001"
+       inkscape:connector-curvature="0"
+       d="m 313.92143,565.88361 -1.6,2.6 -5.4,4.3 -3.2,6.4 -4.5,5.5 -2.2,4.7 -6.8,6.3 -4.6,1.1 -1.1,2.2 -0.9,5.6 -1.4,1.1 -7.3,1.4 -3.9,3.2 -7.3,3.6 -1.4,1.9 -1.3,7.6 -1.9,3.1 -4,3.2 -1.2,-3.4 -1.8,-1.9 -3.4,-1.9 -1.7,-3.4 -4.9,-2.7 -2.7,-3 -4.4,-9.1 -2.8,-4.5 0.2,-1.6 -2.3,-8.2 0.8,-5.8 -0.6,-2.8 0.5,-3.3 -3.6,-8.1 -3.1,-3.6 -0.9,-3.1 2.7,-8.3 -0.2,-1.8 4.5,-7.7 4.2,-3.9 0.7,-3.6 -0.6,-1.4 0.9,-2.6 2.6,-1.8 2.6,2.2 -0.6,5.3 2,9.2 0.8,1.3 4.1,2.1 5.2,0.1 14,-3.9 1.2,0.2 1.8,7.7 2.6,1.4 7.3,-0.6 4.7,0.5 4.9,1.8 4.6,3.8 6.4,-0.9 3.7,-1.8 5.2,0.2 2.5,-1.3 -0.2,2.5 -4.6,2.8 -0.9,2.5 1.2,0.5 4,-1.9 z"
+       id="path3770">
+      <namespace:desc>
+        <namespace:labelrank>7</namespace:labelrank>
+        <namespace:hasc>MW.LI</namespace:hasc>
+        <namespace:alt-name>NULL</namespace:alt-name>
+        <namespace:woe-id>20070134</namespace:woe-id>
+        <namespace:subregion>NULL</namespace:subregion>
+        <namespace:fips>MI11</namespace:fips>
+        <namespace:postal-code>LI</namespace:postal-code>
+        <namespace:name>Lilongwe</namespace:name>
+        <namespace:country>Malawi</namespace:country>
+        <namespace:type-en>District</namespace:type-en>
+        <namespace:region>Central</namespace:region>
+        <namespace:longitude>33.7683</namespace:longitude>
+        <namespace:woe-name>Lilongwe</namespace:woe-name>
+        <namespace:latitude>-14.0415</namespace:latitude>
+        <namespace:woe-label>Lilongwe, MW, Malawi</namespace:woe-label>
+        <namespace:type>District</namespace:type>
+        <namespace:hc-middle-x>0.41</namespace:hc-middle-x>
+        <namespace:hc-middle-y>0.50</namespace:hc-middle-y>
+        <namespace:hc-key>mw-li</namespace:hc-key>
+        <namespace:hc-a2>LI</namespace:hc-a2>
+      </namespace:desc>
+    </path>
+  </g>
+</svg>

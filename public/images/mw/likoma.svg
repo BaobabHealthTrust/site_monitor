@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:namespace="http://www.highcharts.com/svg/namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="-5 -5 16 16"
+   id="likoma"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 97">
+  <defs
+     id="defs4516" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="0.5625"
+     inkscape:cy="-25.612183"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="472"
+     inkscape:window-height="383"
+     inkscape:window-x="65"
+     inkscape:window-y="669"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4519">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-374.4375,-500.78125)">
+    <path
+       id="MW.6970"
+       d="m 377.99286,506.34075 -1.9,0.2 -1.4,-1.2 2.4,-4.3 2.5,1.3 -1.4,0.7 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#6e6e6e;stroke-width:0.40000001">
+      <namespace:desc>
+        <namespace:labelrank>7</namespace:labelrank>
+        <namespace:hasc>MW.NA</namespace:hasc>
+        <namespace:alt-name>NULL</namespace:alt-name>
+        <namespace:woe-id>20070147</namespace:woe-id>
+        <namespace:subregion>NULL</namespace:subregion>
+        <namespace:fips>MI17</namespace:fips>
+        <namespace:postal-code>NULL</namespace:postal-code>
+        <namespace:name>Likoma</namespace:name>
+        <namespace:country>Malawi</namespace:country>
+        <namespace:type-en>District</namespace:type-en>
+        <namespace:region>Northern</namespace:region>
+        <namespace:longitude>34.706</namespace:longitude>
+        <namespace:woe-name>Nkhata Bay</namespace:woe-name>
+        <namespace:latitude>-12.0727</namespace:latitude>
+        <namespace:woe-label>Nkhata Bay, MW, Malawi</namespace:woe-label>
+        <namespace:type>District</namespace:type>
+        <namespace:hc-middle-x>0.52</namespace:hc-middle-x>
+        <namespace:hc-middle-y>0.56</namespace:hc-middle-y>
+        <namespace:hc-key>mw-6970</namespace:hc-key>
+        <namespace:hc-a2>LI</namespace:hc-a2>
+      </namespace:desc>
+    </path>
+  </g>
+</svg>

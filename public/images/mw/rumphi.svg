@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:namespace="http://www.highcharts.com/svg/namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="-10 -10 120 80"
+   id="rumphi"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 18">
+  <defs
+     id="defs3333" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="82.71875"
+     inkscape:cy="52.544067"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="472"
+     inkscape:window-height="383"
+     inkscape:window-x="65"
+     inkscape:window-y="669"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3336">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-292.28125,-525.53125)">
+    <path
+       id="MW.RU"
+       d="m 377.64286,537.86933 2.1,3.7 -0.7,5.6 1.3,4.9 1.4,17.3 -0.1,3.1 -3.3,2.6 -12.4,7.1 -3.5,-5.4 -5.7,-4.6 -1.2,0.9 -0.6,3.9 -2,0.6 -8.4,-1.2 -6,1.2 0.2,2.7 -1.6,2.3 -3,-0.3 -2.5,-2.6 -5.4,0.3 -4,-2.9 -2.1,-0.1 -4.1,5.1 -3.3,2.6 -1.9,-0.9 0.9,-3.9 -0.6,-3.1 -1.2,-0.9 -6.3,-0.7 -5.8,-2.3 -0.9,-5.6 -1.3,-1.1 -3.1,-0.3 0.9,-2.9 4.2,-0.8 2.7,-3.5 5.9,-1.5 4.4,0.6 2.8,-2.1 3.1,-1.4 2.5,-5.1 4.3,-4.9 7.2,-5.1 1.5,-2.5 2.5,-1 22,-9.9 12.6,10.7 1.9,1.2 2.6,-0.7 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#6e6e6e;stroke-width:0.40000001">
+      <namespace:desc>
+        <namespace:labelrank>8</namespace:labelrank>
+        <namespace:hasc>MW.RU</namespace:hasc>
+        <namespace:alt-name>Rumpi</namespace:alt-name>
+        <namespace:woe-id>20070126</namespace:woe-id>
+        <namespace:subregion>NULL</namespace:subregion>
+        <namespace:fips>MI21</namespace:fips>
+        <namespace:postal-code>RU</namespace:postal-code>
+        <namespace:name>Rumphi</namespace:name>
+        <namespace:country>Malawi</namespace:country>
+        <namespace:type-en>District</namespace:type-en>
+        <namespace:region>Northern</namespace:region>
+        <namespace:longitude>33.953</namespace:longitude>
+        <namespace:woe-name>Rumphi</namespace:woe-name>
+        <namespace:latitude>-10.7114</namespace:latitude>
+        <namespace:woe-label>Rumphi, MW, Malawi</namespace:woe-label>
+        <namespace:type>District</namespace:type>
+        <namespace:hc-middle-x>0.64</namespace:hc-middle-x>
+        <namespace:hc-middle-y>0.47</namespace:hc-middle-y>
+        <namespace:hc-key>mw-ru</namespace:hc-key>
+        <namespace:hc-a2>RU</namespace:hc-a2>
+      </namespace:desc>
+    </path>
+  </g>
+</svg>

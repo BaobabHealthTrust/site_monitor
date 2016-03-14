@@ -1,0 +1,37 @@
+//
+   Created by chimwemwe on 2/26/16.
+
+doctype html
+html
+    head
+        title
+            | Site Monitoring Dashboard
+        style.
+            body{
+              font-family: "Nimbus Sans L", "Arial Narrow", sans-serif;
+              overflow: hidden;
+              -moz-user-select:none;
+              -moz-user-focus:disabled;
+            }
+        script(src="data/coords.js")
+        script(src="data/districts.js")
+        script(src="data/sites_by_zones.js")
+        script(src="data/zones.js")
+        script(src="data/district_offsets.js")
+        script.
+            var activeFacilities = !{activeFacilities};
+
+    body(style="background-color: #000;")
+        table(width="100%" border=1 style="border-collapse: collapse; border: 1px solid #fff; background-color: #fff;")
+            tr
+                td(rowspan=2 style="50%")
+                    div(id="cell-0-0" style="overflow: hidden; width: 100%")
+                        object(id="map" type="image/svg+xml" data="/images/Malawi.svg" style="height: 100%; width: 100%;")
+                td(style="50%")
+                    div(id="cell-0-1" style="overflow: hidden;")
+            tr
+                td(style="50%")
+                    div(id="cell-1-1" style="overflow: hidden;")
+                        object(id="district" type="image/svg+xml" data="images/mw/chitipa.svg" style="height: 100%; width: 100%;")
+
+        script(type="text/javascript" src="/javascripts/index.js")

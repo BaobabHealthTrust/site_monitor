@@ -1,0 +1,1 @@
+a = {"data" => []}; j.each{|e| a["data"] << e; r = [rand, rand, rand, rand]; t = r[0] + r[1] + r[2] + r[3]; a[e[0]] = {"adults" => {"male" => (r[0] * e[1]/t).round(2), "female" => (r[1] * e[1]/t).round(2)}, "children" => {"male" => (r[2] * e[1]/t).round(2), "female" => (r[3] * e[1]/t).round(2)}}}

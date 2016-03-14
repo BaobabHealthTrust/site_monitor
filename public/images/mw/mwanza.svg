@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:namespace="http://www.highcharts.com/svg/namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="-10 -10 57 42"
+   id="mwanza"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 76">
+  <defs
+     id="defs4201" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="110.9375"
+     inkscape:cy="28.137817"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="472"
+     inkscape:window-height="383"
+     inkscape:window-x="65"
+     inkscape:window-y="669"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4204">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-264.0625,-538.46875)">
+    <path
+       id="MW.1649"
+       d="m 301.15714,542.20504 0.2,5.6 -2.5,2.6 0.6,3.2 0.4,6.7 -18.5,-0.6 -3.5,-1.1 -13.5,-5.9 5.5,-7.5 1,-2.9 0.3,-3.6 10.4,1.2 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#6e6e6e;stroke-width:0.40000001">
+      <namespace:desc>
+        <namespace:labelrank>7</namespace:labelrank>
+        <namespace:hasc>MW.MW</namespace:hasc>
+        <namespace:alt-name>NULL</namespace:alt-name>
+        <namespace:woe-id>20070139</namespace:woe-id>
+        <namespace:subregion>NULL</namespace:subregion>
+        <namespace:fips>MI25</namespace:fips>
+        <namespace:postal-code>NULL</namespace:postal-code>
+        <namespace:name>Mwanza</namespace:name>
+        <namespace:country>Malawi</namespace:country>
+        <namespace:type-en>District</namespace:type-en>
+        <namespace:region>Southern</namespace:region>
+        <namespace:longitude>34.5126</namespace:longitude>
+        <namespace:woe-name>Mwanza</namespace:woe-name>
+        <namespace:latitude>-15.6394</namespace:latitude>
+        <namespace:woe-label>NULL</namespace:woe-label>
+        <namespace:type>District</namespace:type>
+        <namespace:hc-middle-x>0.50</namespace:hc-middle-x>
+        <namespace:hc-middle-y>0.52</namespace:hc-middle-y>
+        <namespace:hc-key>mw-1649</namespace:hc-key>
+        <namespace:hc-a2>MW</namespace:hc-a2>
+      </namespace:desc>
+    </path>
+  </g>
+</svg>

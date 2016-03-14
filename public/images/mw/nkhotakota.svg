@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:namespace="http://www.highcharts.com/svg/namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="-10 -10 72 142"
+   id="nkhotakota"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 33">
+  <defs
+     id="defs3558" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="78.15625"
+     inkscape:cy="115.32532"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="472"
+     inkscape:window-height="383"
+     inkscape:window-x="65"
+     inkscape:window-y="669"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3561">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-296.84375,-525.6875)">
+    <path
+       id="MW.NK"
+       d="m 320.95714,531.5979 0.8,5.9 2.1,7 1.6,0.7 0.4,2.2 5.5,0.2 2.1,1.3 2.7,8.1 0.2,2.8 -1.8,2.7 -0.3,4.4 1.8,6.5 3.2,4.9 3.3,1.5 0.1,1.9 -1.2,4.4 0.5,1.8 3.7,4 -0.6,3.3 0.9,1.7 1.4,-2.4 -0.6,5.4 1.1,4.6 0,14.6 0.8,6.3 -0.4,2.5 -3.1,5.2 0.3,3 1.6,3.7 -7.9,4.3 -3.6,1.6 -3.2,0.5 -2.7,1.2 -0.7,-11.9 -1.8,-7 0.9,-4 -1.4,-6.4 -2.6,-0.3 -0.9,-1.3 -0.1,-3.6 -3.7,1.1 -1.5,3.6 -1.7,1.1 -2.6,-1.9 0.1,-2.4 -2.6,-4.7 0,-4.4 2.7,-4.1 4.3,-3.2 -0.3,-2 -4.7,-5.9 -3.4,-1.1 -6.4,0.3 -1,-2.4 0.1,-2.8 1.2,-7.1 4.4,-6.7 2.3,-1.8 5.6,-1.4 3.9,-2.5 3.5,-0.6 1.9,-3.4 2.4,-2.6 -2.1,-1.2 -3.1,0.6 -3.3,-0.7 -3.2,-1.7 -3.4,-0.1 -2.4,-2.3 -1.5,-5.7 -2.5,-3.2 -1.3,-2.8 -2.4,-1.9 -2.9,-0.3 -1.7,-1.1 -0.7,-4.4 1.6,-2.4 5.7,-4.8 3.3,-0.1 3.1,2.5 3.6,1.6 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#6e6e6e;stroke-width:0.40000001">
+      <namespace:desc>
+        <namespace:labelrank>7</namespace:labelrank>
+        <namespace:hasc>MW.NK</namespace:hasc>
+        <namespace:alt-name>Kota Kota</namespace:alt-name>
+        <namespace:woe-id>20070129</namespace:woe-id>
+        <namespace:subregion>NULL</namespace:subregion>
+        <namespace:fips>MI18</namespace:fips>
+        <namespace:postal-code>NK</namespace:postal-code>
+        <namespace:name>Nkhotakota</namespace:name>
+        <namespace:country>Malawi</namespace:country>
+        <namespace:type-en>District</namespace:type-en>
+        <namespace:region>Central</namespace:region>
+        <namespace:longitude>34.1715</namespace:longitude>
+        <namespace:woe-name>Nkhotakota</namespace:woe-name>
+        <namespace:latitude>-12.8398</namespace:latitude>
+        <namespace:woe-label>Nkhotakota, MW, Malawi</namespace:woe-label>
+        <namespace:type>District</namespace:type>
+        <namespace:hc-middle-x>0.63</namespace:hc-middle-x>
+        <namespace:hc-middle-y>0.63</namespace:hc-middle-y>
+        <namespace:hc-key>mw-nk</namespace:hc-key>
+        <namespace:hc-a2>NK</namespace:hc-a2>
+      </namespace:desc>
+    </path>
+  </g>
+</svg>

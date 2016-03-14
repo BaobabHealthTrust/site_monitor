@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:namespace="http://www.highcharts.com/svg/namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="-10 -10 193 198"
+   id="zone_c_east"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="zone_c_east.svg">
+  <defs
+     id="defs3092" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="97.891761"
+     inkscape:cy="60.150182"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="1985"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3095">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-110.46875,-574.59375)"
+     sodipodi:insensitive="true">
+    <path
+       id="MW.NK"
+       d="m 210.44286,580.49075 0.8,5.9 2.1,7 1.6,0.7 0.4,2.2 5.5,0.2 2.1,1.3 2.7,8.1 0.2,2.8 -1.8,2.7 -0.3,4.4 1.8,6.5 3.2,4.9 3.3,1.5 0.1,1.9 -1.2,4.4 0.5,1.8 3.7,4 -0.6,3.3 0.9,1.7 1.4,-2.4 -0.6,5.4 1.1,4.6 0,14.6 0.8,6.3 -0.4,2.5 -3.1,5.2 0.3,3 1.6,3.7 -7.9,4.3 -3.6,1.6 -3.2,0.5 -2.7,1.2 -0.7,-11.9 -1.8,-7 0.9,-4 -1.4,-6.4 -2.6,-0.3 -0.9,-1.3 -0.1,-3.6 -3.7,1.1 -1.5,3.6 -1.7,1.1 -2.6,-1.9 0.1,-2.4 -2.6,-4.7 0,-4.4 2.7,-4.1 4.3,-3.2 -0.3,-2 -4.7,-5.9 -3.4,-1.1 -6.4,0.3 -1,-2.4 0.1,-2.8 1.2,-7.1 4.4,-6.7 2.3,-1.8 5.6,-1.4 3.9,-2.5 3.5,-0.6 1.9,-3.4 2.4,-2.6 -2.1,-1.2 -3.1,0.6 -3.3,-0.7 -3.2,-1.7 -3.4,-0.1 -2.4,-2.3 -1.5,-5.7 -2.5,-3.2 -1.3,-2.8 -2.4,-1.9 -2.9,-0.3 -1.7,-1.1 -0.7,-4.4 1.6,-2.4 5.7,-4.8 3.3,-0.1 3.1,2.5 3.6,1.6 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#6e6e6e;stroke-width:0.40000001">
+      <namespace:desc>
+        <namespace:labelrank>7</namespace:labelrank>
+        <namespace:hasc>MW.NK</namespace:hasc>
+        <namespace:alt-name>Kota Kota</namespace:alt-name>
+        <namespace:woe-id>20070129</namespace:woe-id>
+        <namespace:subregion>NULL</namespace:subregion>
+        <namespace:fips>MI18</namespace:fips>
+        <namespace:postal-code>NK</namespace:postal-code>
+        <namespace:name>Nkhotakota</namespace:name>
+        <namespace:country>Malawi</namespace:country>
+        <namespace:type-en>District</namespace:type-en>
+        <namespace:region>Central</namespace:region>
+        <namespace:longitude>34.1715</namespace:longitude>
+        <namespace:woe-name>Nkhotakota</namespace:woe-name>
+        <namespace:latitude>-12.8398</namespace:latitude>
+        <namespace:woe-label>Nkhotakota, MW, Malawi</namespace:woe-label>
+        <namespace:type>District</namespace:type>
+        <namespace:hc-middle-x>0.63</namespace:hc-middle-x>
+        <namespace:hc-middle-y>0.63</namespace:hc-middle-y>
+        <namespace:hc-key>mw-nk</namespace:hc-key>
+        <namespace:hc-a2>NK</namespace:hc-a2>
+      </namespace:desc>
+    </path>
+    <path
+       id="MW.DO"
+       d="m 229.34286,722.59075 -2.5,1.3 -5.2,-0.2 -3.7,1.8 -6.4,0.9 -4.6,-3.8 -4.9,-1.8 -4.7,-0.5 -7.3,0.6 -2.6,-1.4 -1.8,-7.7 -1.2,-0.2 -14,3.9 -5.2,-0.1 -4.1,-2.1 -0.8,-1.3 -2,-9.2 0.6,-5.3 -2.6,-2.2 3.7,-7.5 0.8,-3 -1.2,-2.5 0.7,-1.1 4.7,1.8 3.4,-3.8 2.5,-1.6 2.8,-4.5 0.7,3.2 5.7,4.8 2.3,3.6 1.9,5 0.8,6.8 0.9,1.1 5.2,0.2 4.8,-1.7 2.4,-0.1 4.8,1.4 3.9,-0.2 5,1.9 2.2,0 3.3,-1.4 1.3,6.6 -0.9,4.1 7,6.1 2.3,0.1 4.3,-1.9 0.8,1.4 0.2,3.1 1.7,1.7 -0.5,1.4 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#6e6e6e;stroke-width:0.40000001">
+      <namespace:desc>
+        <namespace:labelrank>8</namespace:labelrank>
+        <namespace:hasc>MW.DO</namespace:hasc>
+        <namespace:alt-name>NULL</namespace:alt-name>
+        <namespace:woe-id>20070132</namespace:woe-id>
+        <namespace:subregion>NULL</namespace:subregion>
+        <namespace:fips>MI07</namespace:fips>
+        <namespace:postal-code>DO</namespace:postal-code>
+        <namespace:name>Dowa</namespace:name>
+        <namespace:country>Malawi</namespace:country>
+        <namespace:type-en>District</namespace:type-en>
+        <namespace:region>Central</namespace:region>
+        <namespace:longitude>33.8651</namespace:longitude>
+        <namespace:woe-name>Dowa</namespace:woe-name>
+        <namespace:latitude>-13.625</namespace:latitude>
+        <namespace:woe-label>Dowa, MW, Malawi</namespace:woe-label>
+        <namespace:type>District</namespace:type>
+        <namespace:hc-middle-x>0.39</namespace:hc-middle-x>
+        <namespace:hc-middle-y>0.59</namespace:hc-middle-y>
+        <namespace:hc-key>mw-do</namespace:hc-key>
+        <namespace:hc-a2>DO</namespace:hc-a2>
+      </namespace:desc>
+    </path>
+    <path
+       id="MW.NI"
+       d="m 217.64286,697.69075 -3.3,1.4 -2.2,0 -5,-1.9 -3.9,0.2 -4.8,-1.4 -2.4,0.1 -4.8,1.7 -5.2,-0.2 -0.9,-1.1 -0.8,-6.8 -1.9,-5 -2.3,-3.6 -5.7,-4.8 -0.7,-3.2 7.1,-2.2 3.7,-3.3 2.9,-4.1 4.5,-3.1 2.1,-3.1 6.5,-3.1 0,4.4 2.6,4.7 -0.1,2.4 2.6,1.9 1.7,-1.1 1.5,-3.6 3.7,-1.1 0.1,3.6 0.9,1.3 2.6,0.3 1.4,6.4 -0.9,4 1.8,7 0.7,11.9 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#6e6e6e;stroke-width:0.40000001">
+      <namespace:desc>
+        <namespace:labelrank>8</namespace:labelrank>
+        <namespace:hasc>MW.NI</namespace:hasc>
+        <namespace:alt-name>Nchisi</namespace:alt-name>
+        <namespace:woe-id>20070130</namespace:woe-id>
+        <namespace:subregion>NULL</namespace:subregion>
+        <namespace:fips>MI20</namespace:fips>
+        <namespace:postal-code>NI</namespace:postal-code>
+        <namespace:name>Ntchisi</namespace:name>
+        <namespace:country>Malawi</namespace:country>
+        <namespace:type-en>District</namespace:type-en>
+        <namespace:region>Central</namespace:region>
+        <namespace:longitude>33.8763</namespace:longitude>
+        <namespace:woe-name>Ntchisi</namespace:woe-name>
+        <namespace:latitude>-13.2659</namespace:latitude>
+        <namespace:woe-label>Ntchisi, MW, Malawi</namespace:woe-label>
+        <namespace:type>District</namespace:type>
+        <namespace:hc-middle-x>0.58</namespace:hc-middle-x>
+        <namespace:hc-middle-y>0.59</namespace:hc-middle-y>
+        <namespace:hc-key>mw-ni</namespace:hc-key>
+        <namespace:hc-a2>NI</namespace:hc-a2>
+      </namespace:desc>
+    </path>
+    <path
+       id="MW.SA"
+       d="m 282.74286,702.79075 0.2,-3.9 0.6,0.2 z m -50.5,26.2 -3.4,0 -4,1.9 -1.2,-0.5 0.9,-2.5 4.6,-2.8 0.2,-2.5 4.5,-2.3 0.5,-1.4 -1.7,-1.7 -0.2,-3.1 -0.8,-1.4 -4.3,1.9 -2.3,-0.1 -7,-6.1 0.9,-4.1 -1.3,-6.6 1.5,-1.4 2.7,-1.2 3.2,-0.5 3.6,-1.6 7.9,-4.3 4.3,7.2 1.8,4.1 3.3,4.1 1.2,0.4 4.4,-1.3 2.6,0.9 1.8,3.6 3.7,3.7 1.2,2.2 2.4,2.3 -1.4,3.1 0.1,4.2 -2.6,3.3 0.7,2.2 -1.5,4.2 -4.3,5.4 -0.5,2.3 1.7,8.6 -4.7,3.6 -2.4,-2.1 -2.8,-4.1 -2.9,-5.4 -6.6,-6.7 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#6e6e6e;stroke-width:0.40000001">
+      <namespace:desc>
+        <namespace:labelrank>8</namespace:labelrank>
+        <namespace:hasc>MW.SA</namespace:hasc>
+        <namespace:alt-name>NULL</namespace:alt-name>
+        <namespace:woe-id>20070133</namespace:woe-id>
+        <namespace:subregion>NULL</namespace:subregion>
+        <namespace:fips>MI22</namespace:fips>
+        <namespace:postal-code>SA</namespace:postal-code>
+        <namespace:name>Salima</namespace:name>
+        <namespace:country>Malawi</namespace:country>
+        <namespace:type-en>District</namespace:type-en>
+        <namespace:region>Central</namespace:region>
+        <namespace:longitude>34.4903</namespace:longitude>
+        <namespace:woe-name>Salima</namespace:woe-name>
+        <namespace:latitude>-13.7572</namespace:latitude>
+        <namespace:woe-label>Salima, MW, Malawi</namespace:woe-label>
+        <namespace:type>District</namespace:type>
+        <namespace:hc-middle-x>0.43</namespace:hc-middle-x>
+        <namespace:hc-middle-y>0.54</namespace:hc-middle-y>
+        <namespace:hc-key>mw-sa</namespace:hc-key>
+        <namespace:hc-a2>SA</namespace:hc-a2>
+      </namespace:desc>
+    </path>
+    <path
+       id="MW.KS"
+       d="m 193.04286,625.89075 -1.2,7.1 -0.1,2.8 1,2.4 6.4,-0.3 3.4,1.1 4.7,5.9 0.3,2 -4.3,3.2 -2.7,4.1 -6.5,3.1 -2.1,3.1 -4.5,3.1 -2.9,4.1 -3.7,3.3 -7.1,2.2 -2.8,4.5 -2.5,1.6 -3.4,3.8 -4.7,-1.8 -0.7,1.1 1.2,2.5 -0.8,3 -3.7,7.5 -2.6,1.8 -0.9,2.6 0.6,1.4 -0.7,3.6 -4.2,3.9 -3.6,-4 -2.4,-1.4 -5.3,-5.3 -1.8,-2.8 -2.4,-5.6 -0.6,-6.3 -1,-0.9 -20.7,1.3 1.3,-5.1 1.6,-3.5 2.2,-2.7 2.7,-0.8 0.2,-2.3 -2.1,-3.6 -0.5,-3.1 1.4,-10 2.4,-5.5 0.4,-2.5 -0.8,-2.2 -5.1,-4.5 -0.5,-6.6 1.5,-4 3.2,-4.7 2.7,-5.4 2.2,-2.4 1.3,-0.1 1.5,1.8 4.3,-1.9 2.9,3.3 5.7,-3.8 2.5,-4.2 4.2,-0.6 2.3,1.1 3.9,-1.7 4.3,-4.8 2.6,-1.1 0.9,-3.3 4.7,-3.8 5.3,1.2 0.9,2.2 -2.3,4.1 0.4,6.5 2,3.9 -1.4,2.8 0.6,4 2.2,0 4.4,4.9 4.3,1.1 5.6,-1.9 4.3,2.6 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#6e6e6e;stroke-width:0.40000001">
+      <namespace:desc>
+        <namespace:labelrank>8</namespace:labelrank>
+        <namespace:hasc>MW.KS</namespace:hasc>
+        <namespace:alt-name>NULL</namespace:alt-name>
+        <namespace:woe-id>20070128</namespace:woe-id>
+        <namespace:subregion>NULL</namespace:subregion>
+        <namespace:fips>MI09</namespace:fips>
+        <namespace:postal-code>KS</namespace:postal-code>
+        <namespace:name>Kasungu</namespace:name>
+        <namespace:country>Malawi</namespace:country>
+        <namespace:type-en>District</namespace:type-en>
+        <namespace:region>Central</namespace:region>
+        <namespace:longitude>33.4535</namespace:longitude>
+        <namespace:woe-name>Kasungu</namespace:woe-name>
+        <namespace:latitude>-12.9319</namespace:latitude>
+        <namespace:woe-label>Kasungu, MW, Malawi</namespace:woe-label>
+        <namespace:type>District</namespace:type>
+        <namespace:hc-middle-x>0.43</namespace:hc-middle-x>
+        <namespace:hc-middle-y>0.54</namespace:hc-middle-y>
+        <namespace:hc-key>mw-ks</namespace:hc-key>
+        <namespace:hc-a2>KS</namespace:hc-a2>
+      </namespace:desc>
+    </path>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer" />
+</svg>
