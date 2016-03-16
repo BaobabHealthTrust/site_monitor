@@ -1,0 +1,12 @@
+{
+    "kamuzu+central+hospital" : {
+        "host": "localhost",
+        "port": "3000",
+        "path": "/feed?format=rss"
+    },
+    "area+18+health+centre" : {
+        "host": "localhost",
+        "port": "3002",
+        "path": "/rss/feed?format=rss"
+    }
+}
