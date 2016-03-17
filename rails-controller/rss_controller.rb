@@ -46,7 +46,7 @@ class RssController < ActionController::Base
 
       file.close
 
-    elsif ((Time.now - File.ctime(filename)) / (60 * 60) > max_age)
+    elsif ((Time.now - File.ctime(filename)) > max_age)
 
       Encounter.find_by_sql("SELECT DATE(encounter_datetime) AS encounter_datetime, count(DISTINCT(patient_id)) AS " +
                                 "patient_id FROM encounter where YEAR(encounter_datetime) = YEAR(NOW()) " +

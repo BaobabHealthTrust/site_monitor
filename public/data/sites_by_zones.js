@@ -3652,6 +3652,17 @@ var sites_by_zones = {"chitipa": [
         "zone": "Central West"
     },
     {
+        "facility": "Lighthouse",
+        "facility_type": "Central Hospital",
+        "mga": "Government/public",
+        "ftype": "Urban",
+        "latitude": -13.97639,
+        "longitude": 33.78512,
+        "facility_id": "10339",
+        "region": "Central",
+        "zone": "Central West"
+    },
+    {
         "facility": "Kabudula+Rural+Hospital",
         "facility_type": "Rural/Community Hospital",
         "mga": "Government/public",
